@@ -2,12 +2,9 @@
   <div class="app">
     <div class="wrapper">
       <h1>主应用vue3+vite</h1>
-      <div>
-        <button @click="handleClick">重新加载子应用</button>
-      </div>
     </div>
     <div class="child-app">
-      <micro-app-platform name='child-project' url='http://localhost:3000/' iframe></micro-app-platform>
+      <micro-app-platform name='child-project' url='http://localhost:8080/' iframe></micro-app-platform>
     </div>
 </div>
 

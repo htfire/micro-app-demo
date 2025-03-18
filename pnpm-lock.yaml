@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@micro-zoe/micro-app':
-        specifier: 1.0.0-rc.20
-        version: 1.0.0-rc.20
+        specifier: 1.0.0-rc.23
+        version: 1.0.0-rc.23
       vue:
         specifier: ^3.5.13
         version: 3.5.13
@@ -341,8 +341,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
 
-  '@micro-zoe/micro-app@1.0.0-rc.20':
-    resolution: {integrity: sha512-RFTPoTnHfTPEeXCF0V8X0i4mkn+d0ecnn29SqQKXz3O34pQ/6F6OAeFWJ0xFHVE2uwK5ldt34oIJWUAl/vsiVw==}
+  '@micro-zoe/micro-app@1.0.0-rc.23':
+    resolution: {integrity: sha512-ipjiLGcVKkiMJlfgRuqAQGAtAgaVR964MEK1B4CVFEDQUWEzDOkShgcvqKcX3bjc1KJYpKrvl0CMs4bHGdRZSA==}
 
   '@polka/url@1.0.0-next.28':
     resolution: {integrity: sha512-8LduaNlMZGwdZ6qWrKlfa+2M4gahzFkprZiAt2TF8uS0qQgBizKXpXURqvTJ4WtmupWxaLqjRb2UCTe72mu+Aw==}
@@ -1228,7 +1228,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@micro-zoe/micro-app@1.0.0-rc.20': {}
+  '@micro-zoe/micro-app@1.0.0-rc.23': {}
 
   '@polka/url@1.0.0-next.28': {}
 

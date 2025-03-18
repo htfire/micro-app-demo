@@ -1,29 +1,11 @@
 # main-project
 
-This template should help get you started developing with Vue 3 in Vite.
+主应用 vue3+vite
 
-## Recommended IDE Setup
+# child-project
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+子应用 vue2+element-ui
 
-## Customize configuration
+# child-project
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
+子应用 react19+antd5
